@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @janefran
+- 👋 Hi, I’m @LadyF
 - 👀 I’m interested in product design
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on open source contributions
